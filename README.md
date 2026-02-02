@@ -10,8 +10,6 @@ A production-ready MCP server that allows AI assistants (like Claude) to:
 - Stream real-time changes (trace, events, memory)
 - Analyze game behavior and debug issues
 
-**All 3 development phases complete** - 20 MCP tools, streaming support, full configuration system.
-
 ## Quick Start
 
 ### Prerequisites
@@ -229,6 +227,3 @@ python tests/test_stability.py
 - **Configuration**: JSON-based with defaults
 - **Testing**: 37 tests covering all components
 
-## License
-
-Part of the Mesen2 ecosystem - GPL V3
