@@ -1,0 +1,9 @@
+# Core dependencies
+# (No external packages required for basic functionality!)
+# The server uses only Python standard library + ctypes
+
+# Optional dependencies for development
+pytest>=7.0.0              # Testing
+pytest-cov>=3.0.0          # Test coverage
+black>=22.0.0              # Code formatting
+mypy>=0.990                # Type checking
